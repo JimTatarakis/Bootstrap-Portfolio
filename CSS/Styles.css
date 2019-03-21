@@ -1,0 +1,26 @@
+/*index media query*/
+@media only screen and (max-width: 640px) {
+h1{
+    font-size: 1.5rem;
+}
+h5{
+    font-size: 1.3rem;
+    margin-top: 5px;
+}
+p{
+    font-size: 0.9em;
+}
+}
+/* index media query end */
+
+/*portfolio media query*/
+@media only screen and (min-width:768px){
+    h5{
+        font-size: 3.0rem;
+    }
+}
+/*portfolio media query end*/
+
+/*contact media query*/
+/*not needed*/
+/*contact media query end*/
